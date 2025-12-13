@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VividZap</h1>
 <h3 align="center">Plugin Devloper SCP:SL from France</h3>
-<h3 align="center">I live in Algeria</h3>
+<h3 align="center">I live in Germany (soon)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividzap" alt="vividzap" /></a> </p>
 
