@@ -1,7 +1,9 @@
+<img width="2646" height="2442" alt="brother_background" src="https://github.com/user-attachments/assets/147b2220-4be5-492b-bd3d-38039f8f4262" />
+![Uploading brother_background.png…]()
+
 <h1 align="center">Hi 👋, I'm VividZap</h1>
 <h3 align="center">Plugin Devloper SCP:SL from France</h3>
 <h3 align="center">I live in France :3</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividzap" alt="vividzap" /></a> </p>
 
 - 🔭 I’m currently working on [SCP500s](https://github.com/VividZap/VividZapSCP500s)
