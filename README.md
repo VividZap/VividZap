@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividzap" alt="vividzap" /></a> </p>
 
 
-[ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51KSG2P)
+[ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)(https://ko-fi.com/H2H51KSG2P)
 
 - 🔭 I’m currently working on [SCP500s](https://github.com/VividZap/VividZapSCP500s)
 
