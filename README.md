@@ -4,7 +4,10 @@
 <h3 align="center">Plugin Devloper SCP:SL from France</h3>
 <h3 align="center">I live in France :3</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividzap" alt="vividzap" /></a> </p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51KSG2P)
+
+
+[ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51KSG2P)
+
 - 🔭 I’m currently working on [SCP500s](https://github.com/VividZap/VividZapSCP500s)
 
 - ⚡ Fun fact **Idk but i think im fun boy**
